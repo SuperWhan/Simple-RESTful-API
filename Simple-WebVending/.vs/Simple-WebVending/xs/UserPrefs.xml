@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{76BFA0E9-4861-4448-A79A-418B9D1A7352}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Simple-WebVending/Controllers/ItemGetController.cs">
+    <Files>
+      <File FileName="Simple-WebVending/Controllers/ItemRetriveController.cs" Line="15" Column="15" />
+      <File FileName="Simple-WebVending/Controllers/ItemRegistrationController.cs" Line="1" Column="1" />
+      <File FileName="Simple-WebVending/Models/CustomerReply.cs" Line="13" Column="37" />
+      <File FileName="Simple-WebVending/Controllers/ValuesController.cs" Line="1" Column="1" />
+      <File FileName="Simple-WebVending/Models/VendingItems.cs" Line="18" Column="10" />
+      <File FileName="Simple-WebVending/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="Simple-WebVending/Models/ItemRegistration.cs" Line="64" Column="25" />
+      <File FileName="Simple-WebVending/Controllers/ItemDeleteController.cs" Line="1" Column="1" />
+      <File FileName="Simple-WebVending/Controllers/ItemUpdateController.cs" Line="18" Column="10" />
+      <File FileName="Simple-WebVending/Controllers/ItemCleanController.cs" Line="14" Column="35" />
+      <File FileName="Simple-WebVending/Controllers/ItemGetController.cs" Line="22" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Simple-WebVending PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
