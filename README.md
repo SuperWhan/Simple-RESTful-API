@@ -2,11 +2,11 @@
 A very simple API with self developed data base  
 implemented by ASP.NET  
 
-#tools:
+# Tools:
 Visual Studio 2017  
 Postman  
 
-#Usage
+# Usage:
 using postman GET/POST/PUT/DELET to retrieve, modify, delete, add items.  
 
 retrieve (GET): localhost/api/itemretrive  
